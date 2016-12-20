@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\bin\Debug\ch.hsr.wpf.gadgeothek.dll
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\bin\Debug\ch.hsr.wpf.gadgeothek.pdb
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\obj\Debug\ch.hsr.wpf.gadgeothek.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\obj\Debug\ch.hsr.wpf.gadgeothek.dll
+C:\Users\Administrator\Documents\GitHub\Miniprojekt-Vorlage-WPF\ch.hsr.wpf.gadgeothek\obj\Debug\ch.hsr.wpf.gadgeothek.pdb
